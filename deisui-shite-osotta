@@ -8,33 +8,9 @@
          "title":"Chapter 1",
          "volume":"1",
          "groups":{
-            "GGScansBL":"/proxy/api/imgur/chapter/f3xYboa/"
+            "GGScansBL":"/proxy/api/imgur/chapter/CTVBNLn/"
          },
-         "last_updated":"1626713100"
-      },
-       "2":{
-         "title":"Chapter 2",
-         "volume":"1",
-         "groups":{
-            "GGScansBL":"/proxy/api/imgur/chapter/OnhK2yw/"
-         },
-         "last_updated":"1626713100"
-      },
-       "3":{
-         "title":"Chapter 3",
-         "volume":"1",
-         "groups":{
-            "GGScansBL":"/proxy/api/imgur/chapter/Hi9Vffs/"
-         },
-         "last_updated":"1626713100"
-      },
-       "4":{
-         "title":"Chapter 4",
-         "volume":"1",
-         "groups":{
-            "GGScansBL":"/proxy/api/imgur/chapter/OU1Wa7e/"
-         },
-         "last_updated":"1632789521"
+         "last_updated":"1633258185"
       }
    }
 }
