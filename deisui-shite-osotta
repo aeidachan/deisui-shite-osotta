@@ -1,0 +1,40 @@
+{
+   "title":"DEISUI SHITE OSOTTA",
+   "description":"Hikaru is a high school student who was attacked by his zombified mother. He escaped together with his childhood friend, Ai, whom he looked up to as an older brother. However, Hikaru is unable to accept the misfortune that suddenly befell him. On the other hand, Ai, who has watched over Hikaru since they were young…",
+   "author":"NONFOOD",
+   "cover":"https://cdn.discordapp.com/attachments/403211718001557506/894170863543390208/GGScansBL_Deisui-Shite-Osotta_ch01_cover_a.png",
+   "chapters":{
+      "1":{
+         "title":"Chapter 1",
+         "volume":"1",
+         "groups":{
+            "GGScansBL":"/proxy/api/imgur/chapter/f3xYboa/"
+         },
+         "last_updated":"1626713100"
+      },
+       "2":{
+         "title":"Chapter 2",
+         "volume":"1",
+         "groups":{
+            "GGScansBL":"/proxy/api/imgur/chapter/OnhK2yw/"
+         },
+         "last_updated":"1626713100"
+      },
+       "3":{
+         "title":"Chapter 3",
+         "volume":"1",
+         "groups":{
+            "GGScansBL":"/proxy/api/imgur/chapter/Hi9Vffs/"
+         },
+         "last_updated":"1626713100"
+      },
+       "4":{
+         "title":"Chapter 4",
+         "volume":"1",
+         "groups":{
+            "GGScansBL":"/proxy/api/imgur/chapter/OU1Wa7e/"
+         },
+         "last_updated":"1632789521"
+      }
+   }
+}
